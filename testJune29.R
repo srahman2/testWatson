@@ -13,3 +13,4 @@ test <- read_csv("https://raw.github.com/srahman2/testWatson/master/testDataset.
 train <- read_csv("https://raw.github.com/srahman2/testWatson/master/trainDataset.csv")
 
 # habijabi
+# valoi to kaj kortese mone hoche
