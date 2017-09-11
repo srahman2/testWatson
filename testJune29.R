@@ -14,3 +14,4 @@ train <- read_csv("https://raw.github.com/srahman2/testWatson/master/trainDatase
 
 # habijabi
 # valoi to kaj kortese mone hoche
+# ekhan thekei to edit kora jai dekha jache valo to
